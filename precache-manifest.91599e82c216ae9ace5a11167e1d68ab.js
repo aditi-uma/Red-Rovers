@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "213660fa0ab146976cde74522561477c",
+    "revision": "a476a48e5b67c407e4adb1393d82deca",
     "url": "/Red-Rovers/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Red-Rovers/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "e957149efbdfb623239c",
+    "revision": "df37e4c6c831946180c4",
     "url": "/Red-Rovers/static/css/main.aad0f55d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Red-Rovers/static/js/2.562b8bf3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e957149efbdfb623239c",
-    "url": "/Red-Rovers/static/js/main.41a1e228.chunk.js"
+    "revision": "df37e4c6c831946180c4",
+    "url": "/Red-Rovers/static/js/main.773cac84.chunk.js"
   },
   {
     "revision": "4233435b464171d94beb",
