@@ -8,7 +8,7 @@
 
 **About**
 
-[Red Rovers Application](https://vysh-b.github.io/Red-Rovers/)
+[Red Rovers Application](https://aditi-uma.github.io/Red-Rovers/)
 
 This web app finds the shortest path between two points. It uses Breadth-First Search algorithm to find the path and its length. Diagonal paths can be enabled.
 
